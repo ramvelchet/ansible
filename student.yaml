@@ -1,0 +1,42 @@
+- name: "ramkoundinya velcheti"
+  dob: "18-6-1992"
+  age: "27"
+  addresses:
+  - doorno: 32
+    street: "grandi street"
+    city: hyderbad
+    pin: 50081
+    type: current
+
+  - doorno: 32
+    street: "grandi street"
+    city: hyderbad
+    pin: 50081
+    type: perm
+  skills:
+  - java:
+  - phython:
+  - cloud:
+  - c++:
+
+- name: "somayya "
+  dob: "18-6-1992"
+  age: "27"
+  addresses:
+  - doorno: 331
+    street: "grandi street"
+    city: hyderbad
+    pin: 50081
+    type: current
+
+  - doorno: 331
+    street: "grandi street"
+    city: hyderbad
+    pin: 50081
+    type: perm
+  skills:
+  - java:
+  - phython:
+  - cloud:
+  - c++:
+  

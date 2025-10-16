@@ -1,0 +1,15 @@
+<student>
+    <name>Ramkoundinya velcheti</Name>
+    <dob>01-01-1992</dob>
+    <age>21</age>
+    <addresses>
+        <address type="PERM"
+            <doorno>3/10/21</doorno>
+            <street>grandhi nagar</street>
+        </address>
+        <address type="current"
+            <doorno>3/10/21</doorno>
+            <street>grandhi nagar</street>
+        </address>
+    </addresses>
+</student>

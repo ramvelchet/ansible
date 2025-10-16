@@ -1,0 +1,23 @@
+{
+    "name": "ramkoundinya velcheti",
+    "dob": "18-06-1993",
+    "addresses": [
+        {
+            "type": "current" ,
+            "doono": "1-23" ,
+            "street": "grandhi nagar" ,
+            "city": "vizag" ,
+            "pin": 50081
+        },
+
+        {
+             "type": "current" ,
+            "doono": "1-23" ,
+            "street": "grandhi nagar" ,
+            "city": "vizag" ,
+            "pin": 50081
+        }
+        
+    ],
+    "Skills": ["java","phython","devops"]
+}
