@@ -14,4 +14,4 @@
     vars:
       NAME: from task level 
     ansible.builtin.debug:
-      msg: "hello from PLAY-01 AND TASK-01"
+      msg: "NAME: {{ NAME }}"
