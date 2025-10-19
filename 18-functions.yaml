@@ -12,10 +12,11 @@
     - key: Application
       value: payment
     - key: Environment
+      value: dev
   tasks:
   - name: default variable
     ansible.builtin.debug:
-      msg: "hello, {{ name | default( 'Ramesh') }}"
+      msg: "Hello, {{ name | default( 'Ramesh') }}"
 
   - name: convert string to list
     ansible.builtin.debug:
