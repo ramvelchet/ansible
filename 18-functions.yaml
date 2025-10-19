@@ -17,4 +17,4 @@
       msg: "Technologies are: {{ technologies | split(',') }}"
   - name: convert map to  list
     ansible.builtin.debug:
-      msg: "Tags are: {{ tags | dic2itmes }}"
+      msg: "Tags are: {{ tags | dict2itmes }}"
