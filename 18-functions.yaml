@@ -5,7 +5,7 @@
     technologies: Devops, linux, shell,Ansible
     name: "ramkoundinya velcheti"
     gmail: "RAMS.ISHA23@GMAIL.COM"
-    ipaddress: 345.123.567.878
+    ipaddress: 192.168.0.1
     # dictionary == map
     tags:
       Application: payment
