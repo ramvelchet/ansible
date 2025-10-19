@@ -3,6 +3,7 @@
   connection: local
   vars:
     technologies: Devops, linux, shell,Ansible
+    name: "ramkoundinya velcheti"
     # dictionary == map
     tags:
       Application: payment
