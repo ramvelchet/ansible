@@ -2,3 +2,10 @@
  DURATION: 10hrs
  Trainer: "ram velcheti" 
  NAME: from files
+
+ vars_files:
+  - course.yaml
+ tasks:
+  - name: print the course info
+    ansible.builtin.debug:
+      msg: "course name is: {{ COURSE }}, duration: {{ DURATION }}, Trainer: {{ Trainer }}"
